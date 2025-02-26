@@ -1,0 +1,16 @@
+[24-Oct-2022 06:32:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php on line 53
+[24-Oct-2022 06:36:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php on line 53
+[24-Oct-2022 06:53:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php on line 53
+[24-Oct-2022 07:20:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/SimplePie/Core.php on line 53

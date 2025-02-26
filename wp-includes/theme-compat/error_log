@@ -1,0 +1,64 @@
+[24-Oct-2022 06:32:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php on line 9
+[24-Oct-2022 06:32:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php on line 9
+[24-Oct-2022 06:32:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[24-Oct-2022 06:32:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php on line 9
+[24-Oct-2022 06:36:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php on line 9
+[24-Oct-2022 06:36:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php on line 9
+[24-Oct-2022 06:36:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[24-Oct-2022 06:36:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php on line 9
+[24-Oct-2022 06:53:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[24-Oct-2022 06:53:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php on line 9
+[24-Oct-2022 06:53:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php on line 9
+[24-Oct-2022 06:53:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php on line 9
+[24-Oct-2022 07:20:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/header.php on line 9
+[24-Oct-2022 07:20:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/footer.php on line 9
+[24-Oct-2022 07:20:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/comments.php on line 9
+[24-Oct-2022 07:20:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-includes/theme-compat/sidebar.php on line 9

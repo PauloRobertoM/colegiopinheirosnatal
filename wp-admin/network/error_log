@@ -1,0 +1,20 @@
+[24-Oct-2022 06:31:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php on line 11
+[24-Oct-2022 06:32:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php on line 11
+[24-Oct-2022 06:36:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php on line 11
+[24-Oct-2022 06:53:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php on line 11
+[24-Oct-2022 07:20:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/network/menu.php on line 11

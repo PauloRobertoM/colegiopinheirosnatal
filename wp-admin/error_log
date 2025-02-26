@@ -1,0 +1,203 @@
+[24-Oct-2022 06:31:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php on line 9
+[24-Oct-2022 06:31:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php on line 12
+[24-Oct-2022 06:31:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php on line 12
+[24-Oct-2022 06:31:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php on line 12
+[24-Oct-2022 06:31:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/menu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu.php on line 24
+[24-Oct-2022 06:31:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php on line 38
+[24-Oct-2022 06:31:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home2/colegiopinheiros/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/options-head.php on line 11
+[24-Oct-2022 06:31:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php on line 11
+[24-Oct-2022 06:32:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php on line 9
+[24-Oct-2022 06:32:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php on line 12
+[24-Oct-2022 06:32:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php on line 12
+[24-Oct-2022 06:32:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php on line 12
+[24-Oct-2022 06:32:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/menu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu.php on line 24
+[24-Oct-2022 06:32:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php on line 38
+[24-Oct-2022 06:32:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home2/colegiopinheiros/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/options-head.php on line 11
+[24-Oct-2022 06:32:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php on line 11
+[24-Oct-2022 06:36:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php on line 9
+[24-Oct-2022 06:36:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php on line 12
+[24-Oct-2022 06:36:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php on line 12
+[24-Oct-2022 06:36:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php on line 12
+[24-Oct-2022 06:36:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php on line 38
+[24-Oct-2022 06:36:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/menu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu.php on line 24
+[24-Oct-2022 06:36:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home2/colegiopinheiros/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/options-head.php on line 11
+[24-Oct-2022 06:36:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php on line 11
+[24-Oct-2022 06:53:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php on line 9
+[24-Oct-2022 06:53:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php on line 12
+[24-Oct-2022 06:53:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php on line 12
+[24-Oct-2022 06:53:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php on line 12
+[24-Oct-2022 06:53:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/menu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu.php on line 24
+[24-Oct-2022 06:53:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php on line 38
+[24-Oct-2022 06:53:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php on line 11
+[24-Oct-2022 06:53:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home2/colegiopinheiros/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/options-head.php on line 11
+[24-Oct-2022 07:19:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-functions.php on line 12
+[24-Oct-2022 07:19:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/admin-header.php on line 9
+[24-Oct-2022 07:19:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-background.php on line 12
+[24-Oct-2022 07:19:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/custom-header.php on line 12
+[24-Oct-2022 07:20:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home2/colegiopinheiros/public_html/wp-admin/menu.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu.php on line 24
+[24-Oct-2022 07:20:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php:38
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/menu-header.php on line 38
+[24-Oct-2022 07:20:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function wp_reset_vars() in /home2/colegiopinheiros/public_html/wp-admin/options-head.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/options-head.php on line 11
+[24-Oct-2022 07:20:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php:11
+Stack trace:
+#0 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-admin/upgrade-functions.php on line 11
+[27-Feb-2024 17:21:23 America/Recife] PHP Warning:  Trying to access array offset on value of type bool in /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-process-renamed-login-page.php on line 205
+[01-Apr-2024 04:36:33 America/Recife] PHP Warning:  Trying to access array offset on value of type bool in /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-process-renamed-login-page.php on line 205
+[13-Jun-2024 11:11:38 America/Recife] PHP Warning:  Trying to access array offset on value of type bool in /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-process-renamed-login-page.php on line 205
+[11-Jul-2024 20:55:22 America/Recife] PHP Warning:  Trying to access array offset on value of type bool in /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-process-renamed-login-page.php on line 205
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'created' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD COLUMN created INTEGER UNSIGNED made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'released' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD COLUMN released INTEGER UNSIGNED made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'is_lockout_email_sent' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD COLUMN is_lockout_email_sent tinyint(1) NOT NULL DEFAULT '1' made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'backtrace_log' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD COLUMN backtrace_log text NOT NULL DEFAULT '' made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'ip_lookup_result' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD COLUMN ip_lookup_result LONGTEXT DEFAULT NULL made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate key name 'failed_login_ip' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD KEY `failed_login_ip` (`failed_login_ip`) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate key name 'is_lockout_email_sent' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD KEY `is_lockout_email_sent` (`is_lockout_email_sent`) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate key name 'unlock_key' for query ALTER TABLE cepinheiros_aiowps_login_lockdown ADD KEY `unlock_key` (`unlock_key`) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'created' for query ALTER TABLE cepinheiros_aiowps_global_meta ADD COLUMN created INTEGER UNSIGNED made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'created' for query ALTER TABLE cepinheiros_aiowps_events ADD COLUMN created INTEGER UNSIGNED made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate column name 'created' for query ALTER TABLE cepinheiros_aiowps_permanent_block ADD COLUMN created INTEGER UNSIGNED made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error Duplicate key name 'blocked_ip' for query ALTER TABLE cepinheiros_aiowps_permanent_block ADD KEY `blocked_ip` (`blocked_ip`) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error BLOB, TEXT, GEOMETRY or JSON column 'details' can't have a default value for query ALTER TABLE cepinheiros_aiowps_audit_log ALTER COLUMN `details` SET DEFAULT '' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error BLOB, TEXT, GEOMETRY or JSON column 'stacktrace' can't have a default value for query ALTER TABLE cepinheiros_aiowps_audit_log ALTER COLUMN `stacktrace` SET DEFAULT '' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:21 UTC] WordPress database error BLOB, TEXT, GEOMETRY or JSON column 'message' can't have a default value for query ALTER TABLE cepinheiros_aiowps_debug_log ALTER COLUMN `message` SET DEFAULT '' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:22 UTC] WordPress database error BLOB, TEXT, GEOMETRY or JSON column 'message_key' can't have a default value for query ALTER TABLE cepinheiros_aiowps_message_store ALTER COLUMN `message_key` SET DEFAULT '' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:22 UTC] WordPress database error BLOB, TEXT, GEOMETRY or JSON column 'message_value' can't have a default value for query ALTER TABLE cepinheiros_aiowps_message_store ALTER COLUMN `message_value` SET DEFAULT '' made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, AIO_WP_Security->plugins_loaded_handler, AIO_WP_Security->db_upgrade_handler, AIOWPSecurity_Installer::run_installer, AIOWPSecurity_Installer::create_db_tables, dbDelta
+[25-Nov-2024 12:33:22 UTC] PHP Warning:  file(/home2/colegiopinheiros/public_html/.htaccess_temp): Failed to open stream: No such file or directory in /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-utility-htaccess.php on line 207
+[25-Nov-2024 12:33:22 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, bool given in /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-utility-htaccess.php:207
+Stack trace:
+#0 /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-utility-htaccess.php(207): implode('', false)
+#1 /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-configure-settings.php(432): AIOWPSecurity_Utility_Htaccess::write_to_htaccess(false)
+#2 /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-installer.php(43): AIOWPSecurity_Configure_Settings::add_option_values()
+#3 /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/wp-security-core.php(389): AIOWPSecurity_Installer::run_installer()
+#4 /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/wp-security-core.php(431): AIO_WP_Security->db_upgrade_handler()
+#5 /home2/colegiopinheiros/public_html/wp-includes/class-wp-hook.php(324): AIO_WP_Security->plugins_loaded_handler('')
+#6 /home2/colegiopinheiros/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#7 /home2/colegiopinheiros/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#8 /home2/colegiopinheiros/public_html/wp-settings.php(559): do_action('plugins_loaded')
+#9 /home2/colegiopinheiros/public_html/wp-config.php(81): require_once('/home2/colegiop...')
+#10 /home2/colegiopinheiros/public_html/wp-load.php(50): require_once('/home2/colegiop...')
+#11 /home2/colegiopinheiros/public_html/wp-admin/admin-ajax.php(22): require_once('/home2/colegiop...')
+#12 {main}
+  thrown in /home2/colegiopinheiros/public_html/wp-content/plugins/all-in-one-wp-security-and-firewall/classes/wp-security-utility-htaccess.php on line 207
+[25-Nov-2024 09:33:22 America/Recife] TFA: Beginning attempt to port private key encryption over to openssl
+[25-Jan-2025 02:07:29 America/Recife] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_a0d5959357e474aef655313f69891f37, O_RDWR) failed: Permission denied (13) in /home2/colegiopinheiros/public_html/wp-content/themes/cepinheiros/functions.php on line 7
+[25-Jan-2025 02:07:29 America/Recife] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/colegiopinheiros/public_html/wp-content/themes/cepinheiros/functions.php on line 7
+[25-Jan-2025 02:07:32 America/Recife] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php82/sess_a0d5959357e474aef655313f69891f37, O_RDWR) failed: Permission denied (13) in /home2/colegiopinheiros/public_html/wp-content/themes/cepinheiros/functions.php on line 7
+[25-Jan-2025 02:07:32 America/Recife] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php82) in /home2/colegiopinheiros/public_html/wp-content/themes/cepinheiros/functions.php on line 7
